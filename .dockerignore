@@ -1,0 +1,9 @@
+.git
+.gitignore
+.env
+**/__pycache__
+**/*.pyc
+backend/.venv
+edge_simulation/.venv
+dashboard/node_modules
+dashboard/dist
